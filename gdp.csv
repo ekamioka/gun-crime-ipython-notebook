@@ -1,0 +1,186 @@
+Country;GDP;Int-dolar;GDP Year
+Qatar;1;140;2014
+Luxembourg;2;91048;2013
+Kuwait;3;83,84;2012
+Singapore;4;78763;2013
+Brunei;5;71777;2013
+Norway;6;64406;2013
+United Arab Emirates;7;59845;2012
+ Switzerland;8;56,95;2013
+Saudi Arabia;9;53644;2013
+United States;10;53042;2013
+Netherlands;11;46162;2013
+Ireland;12;45684;2013
+Austria;13;45079;2013
+Oman;14;45334;2012
+Sweden;15;44658;2013
+Germany;16;43884;2013
+Bahrain;17;43851;2013
+Denmark;18;43782;2013
+Australia;19;43202;2013
+Canada;20;42753;2013
+Iceland;21;41859;2013
+Belgium;22;41575;2013
+Finland;23;39,74;2013
+United Kingdom;24;38259;2013
+France;25;37532;2013
+Japan;26;36223;2013
+Italy;27;35281;2013
+New Zealand;28;34732;2013
+Equatorial Guinea;29;33768;2013
+Spain;30;33094;2013
+Korea, South;31;33062;2013
+Israel;32;32491;2013
+Trinidad and Tobago;33;30446;2013
+Malta;34;29127;2013
+Czech Republic;35;29018;2013
+Slovenia;36;28859;2013
+Cyprus;37;28225;2013
+Portugal;38;27804;2013
+Slovakia;39;26497;2013
+Estonia;40;25823;2013
+Greece;41;25667;2013
+Lithuania;42;25454;2013
+Russia;43;25248;2013
+Seychelles;44;24588;2013
+Poland;45;23,69;2013
+Malaysia;46;23338;2013
+Hungary;47;23334;2013
+Bahamas, The;48;23264;2013
+Kazakhstan;49;23214;2013
+Latvia;50;22569;2013
+Chile;51;21942;2013
+Saint Kitts and Nevis;52;21396;2013
+Croatia;53;21351;2013
+Libya;54;21046;2013
+Antigua and Barbuda;55;21028;2013
+Uruguay;56;19594;2013
+Panama;57;19416;2013
+Gabon;58;19264;2013
+Romania;59;18974;2013
+Cuba;60;18796;2011
+Turkey;61;18783;2013
+Venezuela;62;18198;2013
+Mauritius;63;17714;2013
+Belarus;64;17,62;2013
+Lebanon;65;17174;2013
+Azerbaijan;66;17143;2013
+Mexico;67;16,37;2013
+Suriname;68;16071;2013
+Botswana;69;15752;2013
+Bulgaria;70;15732;2013
+Iran;71;15,59;2013
+Barbados;72;15574;2012
+Palau;73;15096;2013
+Brazil;74;15038;2013
+Iraq;75;14951;2013
+Thailand;76;14394;2013
+Montenegro;77;14132;2013
+Turkmenistan;78;14004;2013
+Costa Rica;79;13876;2013
+Algeria;80;13,32;2013
+Serbia;81;13,02;2013
+South Africa;82;12867;2013
+Colombia;83;12424;2013
+Dominican Republic;84;12186;2013
+China;85;11907;2013
+Jordan;86;11783;2013
+Peru;87;11774;2013
+Maldives;88;11657;2013
+Grenada;89;11645;2013
+Macedonia;90;11612;2013
+Tunisia;91;11125;2013
+Egypt;92;11089;2013
+Ecuador;93;10,89;2013
+Saint Vincent and the Grenadines;94;10491;2013
+Saint Lucia;95;10488;2013
+Dominica;96;10343;2013
+Albania;97;9931;2013
+Sri Lanka;98;9738;2013
+Namibia;99;9583;2013
+Indonesia;100;9561;2013
+Bosnia and Herzegovina;101;9536;2013
+Mongolia;102;9435;2013
+Jamaica;103;8893;2013
+Kosovo;104;8884;2013
+Ukraine;105;8,79;2013
+Belize;106;8487;2013
+Paraguay;107;8093;2013
+Armenia;108;7776;2013
+El Salvador;109;7764;2013
+Fiji;110;7,75;2013
+Angola;111;7736;2013
+Bhutan;112;7405;2013
+Guatemala;113;7297;2013
+Morocco;114;7198;2013
+Georgia;115;7,16;2013
+Swaziland;116;6685;2013
+Guyana;117;6546;2013
+Philippines;118;6536;2013
+Cape Verde;119;6416;2013
+Bolivia;120;6131;2013
+Congo, Rep.;121;5869;2013
+Samoa;122;5769;2013
+Nigeria;123;5602;2013
+India;124;5418;2013
+Tonga;125;5304;2013
+Vietnam;126;5294;2013
+Uzbekistan;127;5168;2013
+West Bank and Gaza;128;4921;2012
+Laos;129;4822;2013
+Moldova;130;4671;2013
+Nicaragua;131;4643;2013
+Pakistan;132;4602;2013
+Honduras;133;4593;2013
+Ghana;134;3992;2013
+Yemen;135;3959;2013
+Zambia;136;3926;2013
+Marshall Islands;137;3901;2013
+Tuvalu;138;3645;2013
+Micronesia;139;3395;2013
+Sudan;140;3373;2013
+Kyrgyzstan;141;3213;2013
+C�te d'Ivoire;142;3211;2013
+Mauritania;143;3043;2013
+Cambodia;144;3041;2013
+Djibouti;145;2999;2013
+Vanuatu;146;2991;2013
+S�o Tom� and Pr�ncipe;147;2971;2013
+Bangladesh;148;2948;2013
+Cameroon;149;2,83;2013
+Kenya;150;2795;2013
+Papua New Guinea;151;2643;2013
+Lesotho;152;2576;2013
+Tajikistan;153;2512;2013
+Tanzania;154;2443;2013
+  Nepal;155;2245;2013
+Senegal;156;2242;2013
+Chad;157;2089;2013
+Timor-Leste;158;2076;2012
+Solomon Islands;159;2069;2013
+South Sudan;160;2,03;2013
+Afghanistan;161;1946;2013
+Kiribati;162;1856;2013
+Zimbabwe;163;1832;2013
+Benin;164;1791;2013
+Haiti;165;1703;2013
+Burkina Faso;166;1685;2013
+Uganda;167;1674;2013
+Gambia, The;168;1661;2013
+Mali;169;1642;2013
+Sierra Leone;170;1544;2013
+Rwanda;171;1474;2013
+Comoros;172;1446;2013
+Madagascar;173;1414;2013
+Guinea-Bissau;174;1407;2013
+Togo;175;1391;2013
+Ethiopia;176;1,38;2013
+Guinea;177;1253;2013
+Eritrea;178;1196;2013
+Mozambique;179;1105;2013
+Niger;180;916;2013
+Liberia;181;878;2013
+Congo, Dem. Rep.;182;809;2013
+Malawi;183;780;2013
+Burundi;184;772;2013
+Central African Republic;185;604;2013
